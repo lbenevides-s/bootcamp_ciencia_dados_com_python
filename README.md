@@ -1,1 +1,2 @@
-# bootcamp_ciencia_dados_com_python
+# Bootcamp: Ciência de Dados com Python 
+ Uma parceria Santander e Digital Innovation One (DIO)
